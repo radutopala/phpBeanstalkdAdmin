@@ -1,7 +1,7 @@
 {
 	"name": "radutopala/phpbeanstalkdadmin",
 	"require": {
-		"radutopala/mnapoli-php-di": "0.9.*",
+		"radutopala/mnapoli-php-di": "3.1.*@dev",
 		"zendframework/zendframework1": "1.12.*"
 	}
 }
