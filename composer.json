@@ -1,5 +1,5 @@
 {
-	"name": "mnapoli/phpbeanstalkdadmin",
+	"name": "radutopala/phpbeanstalkdadmin",
 	"require": {
 		"mnapoli/php-di": "0.9.*",
 		"zendframework/zendframework1": "1.12.*"
